@@ -42,6 +42,7 @@ export default {
   ** Nuxt.js modules
   */
   modules: [
+    '@nuxtjs/axios' // 追加
   ],
   /*
   ** vuetify module configuration
